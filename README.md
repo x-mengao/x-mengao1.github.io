@@ -1,6 +1,6 @@
-## Welcome to my Xiaomeng Gao's online CV
+## Welcome to Xiaomeng Gao's online CV
 
-**Xiaomeng "X-Men" GAO**<br/>
+###**Xiaomeng "X-Men" GAO**<br/>
 
 Postdoctoral Scholar at Davis Advanced RF Technologies Lab<br/>
 University of California, Davis<br/>
@@ -17,4 +17,9 @@ Dissertation: “High Accuracy Non-Contact Measurement Techniques for Torso Disp
 Advisor: Olga Boric-Lubecke, *IEEE Fellow* <br/>
 **M.E.**, Xidian University, Xi’an, China.                            2011<br/>
 **B.E.**, Xidian University, Xi’an, China.                            2009<br/>
+
+### Research Areas
+
+
+### Short Biography
 
