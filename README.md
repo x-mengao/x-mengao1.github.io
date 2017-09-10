@@ -1,5 +1,4 @@
-### **Xiaomeng "X-Men" GAO**<br/>
-### **高晓萌** <br/>
+### **Xiaomeng "X-Men" GAO 高晓萌**<br/>
 
 Postdoctoral Scholar at Davis Advanced RF Technologies Lab <br/>
 University of California, Davis <br/>
