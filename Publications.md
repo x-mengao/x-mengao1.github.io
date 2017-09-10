@@ -1,8 +1,8 @@
 ### Journals	
-**[J4]** A. Singh, X. Gao, E. Yavari, M. Zakrewski, X. H. Cao, V. M. Lubecke, O. Boric-Lubecke, “Data-Based Quadrature Imbalance Compensation For a CW Doppler Radar System,” *IEEE Trans. on Microwave Theory and Techniques*, vol. 61, no. 4, pp.1718-1724, Dec. 2012. <br/>
-**[J3]** M. Zakrzewski, A. Singh, E. Yavari, **X. Gao**, O. Boric-Lubecke and K. Palovuori, “Quadrature Imbalance Compensation with Ellipse Fitting Methods for Microwave Radar Physiological Sensing”, *IEEE Trans. on Microwave Theory and Techniques*, vol. 62, no. 6, pp.1400-1408, June 2014. <br/>
-**[J2]** **X. Gao**, E. Shahhaidar, C. Stickley, O. Boric-Lubecke, “Respiratory Angle of Thoracic Wall Movement During Lung Ventilation,” *IEEE Sensors Journal*, vol. 16, no. 13, pp.5195-5201, July 2016.<br/>
-**[J1]** **X. Gao**, O. Boric-Lubecke, “Radius Correction Technique for Doppler Radar Non-contact Periodic Displacement Measurement,” *IEEE Trans. on Microwave Theory and Techniques*, Nov. 2016. <br/>
+**[J4]** **X. Gao**, O. Boric-Lubecke, “Radius Correction Technique for Doppler Radar Non-contact Periodic Displacement Measurement,” *IEEE Trans. on Microwave Theory and Techniques*, Nov. 2016. <br/>
+**[J3]** **X. Gao**, E. Shahhaidar, C. Stickley, O. Boric-Lubecke, “Respiratory Angle of Thoracic Wall Movement During Lung Ventilation,” *IEEE Sensors Journal*, vol. 16, no. 13, pp.5195-5201, July 2016.<br/>
+**[J2]** M. Zakrzewski, A. Singh, E. Yavari, **X. Gao**, O. Boric-Lubecke and K. Palovuori, “Quadrature Imbalance Compensation with Ellipse Fitting Methods for Microwave Radar Physiological Sensing”, *IEEE Trans. on Microwave Theory and Techniques*, vol. 62, no. 6, pp.1400-1408, June 2014. <br/>
+**[J1]** A. Singh, X. Gao, E. Yavari, M. Zakrewski, X. H. Cao, V. M. Lubecke, O. Boric-Lubecke, “Data-Based Quadrature Imbalance Compensation For a CW Doppler Radar System,” *IEEE Trans. on Microwave Theory and Techniques*, vol. 61, no. 4, pp.1718-1724, Dec. 2012. <br/>
 
 ### Conferences
 6.	T. Sakamoto, X. Gao, E. Yavari, A. Rahman, V. Lubecke, O. Boric-Lubecke, “Radar-based Hand Gesture Recognition Using I-Q Echo Plot and Convolutional Neural Network”, 2017 IEEE Conference on Antenna Measurements & Applications (CAMA), 4 - 6 Dec. 2017.
