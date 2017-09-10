@@ -15,11 +15,14 @@ Sacramento, CA 95817<br/>
 **Ph.D.**, University of Hawaii at Manoa, Honolulu, HI, USA           2016<br/>
 Dissertation: “High Accuracy Non-Contact Measurement Techniques for Torso Displacement and Its Application”. <br/>
 Advisor: Olga Boric-Lubecke, *IEEE Fellow* <br/>
-**M.E.**, Xidian University, Xi’an, China.                            2011<br/>
-**B.E.**, Xidian University, Xi’an, China.                            2009<br/>
+**M.E.**, Xidian University, Xi’an, China                             2011<br/>
+**B.E.**, Xidian University, Xi’an, China                             2009<br/>
 
 ### Research Areas
-
+* RF and microwave
+* Radar sensor for health monitoring 
+* Physiological monitoring and biomedical sensing
+* Radar and infrared based motion sensing
 
 ### Short Biography
 I was born in Xi’an, China. I received the B.E. degree in *Observation Control Techniques and Instrumentations*, and the M.E. degree in *Measurement Technology and Instrumentation* from **Xidian University**, Xi’an, China, in 2009 and 2011, respectively, and the Ph.D. degree in *Electrical Engineering* from **University of Hawaii at Manoa**, Honolulu, HI, USA, in 2016. After graduation, I was with Adnoviv LLC, a startup company co-founded by my PhD advisor Dr. Olga Boric-Lubecke as VP of Technology developing Doppler radar based occupancy sensors. 
